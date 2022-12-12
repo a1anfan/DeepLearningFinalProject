@@ -44,3 +44,10 @@ We also tested our final model on our group’s personal music listening data. W
 
 
 ## Spotify Top 2022 Examples
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/3005.png?raw=true" width="500px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4everybody.png?raw=true" width="500px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4thebetta.png?raw=true" width="500px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/EntertainMe.png?raw=true" width="500px"/>
