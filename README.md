@@ -26,5 +26,7 @@ To evaluate the performance of our model, we first trained it on the training se
 We also tested our final model on our group’s personal music listening data. We compiled a 20-song dataset consisting of the top 5 songs that each of us listened to in 2022 on Spotify. We then trimmed each song down to the first 30 seconds, converted each trimmed mp3 into a spectrogram image, then classified each song’s genre using our model.
 
 ## Results
+
+
 ## Examples
 ## Video
