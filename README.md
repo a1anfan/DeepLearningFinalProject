@@ -53,15 +53,19 @@ FMA Confusion Matrix
 
 ## Spotify Top 2022 Examples
 [SR20DET by Blksmiith](https://www.youtube.com/watch?v=bE2RCOp5yoU)
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/SR20DET.png?raw=true" width="300px"/>
 
 [Cooped Up by Post Malone](https://www.youtube.com/watch?v=WABOrIYhR94)
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/coopedup.png?raw=true" width="300px"/>
 
 [Over the Moon by The Marias](https://www.youtube.com/watch?v=6jiu9TlR11o)
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/overthemoon.png?raw=true" width="300px"/>
 
 [Roses by Gashi](https://www.youtube.com/watch?v=RMIHmO2_JE0)
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/roses.png?raw=true" width="300px"/>
 
 
