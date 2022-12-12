@@ -20,19 +20,84 @@ To tackle the problem of music genre classification, we first trained a CNN on t
 
 Because GTZAN is relatively small at 1000 songs, we wanted to try training on a larger, more robust dataset. The next dataset we used was the small version of FMA, which contains 8000 songs, and is more recent. Because of the formatting of the FMA dataset, we had to do a lot of data preprocessing. The FMA dataset states that the small version has eight genres, but the genre names are not given, so we had to perform some data analysis on the full dataset’s metadata using pandas to find the names of the genres. We also needed the mp3 files to be organized into a training, validation, and test set, and organized into each of the eight genres within each of those folders, so we wrote scripts to organize the mp3 files into the right folders.
 
-## Experiments/evaluation
+## Experiments / Evaluation
 To evaluate the performance of our model, we first trained it on the training set and then tested it on the test set. Because the GTZAN dataset does not contain a test set, we used a training/validation split of the GTZAN dataset with 80% of the data used for training and 20% used for validation. For the FMA dataset, we used a train/validation/test split with 80% of the data used for training, 10% used for validation, and 10% used for testing.
 
 We also tested our final model on our group’s personal music listening data. We compiled a 20-song dataset consisting of the top 5 songs that each of us listened to in 2022 on Spotify. We then trimmed each song down to the first 30 seconds, converted each trimmed mp3 into a spectrogram image, then classified each song’s genre using our model.
 
 ## Results
 
+GTZAN — Final Validation Accuracy: 66.5%
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/gtzan_acc.png?raw=true" alt="gtzan_acc" width="500px"/>
 
+
+FMA — Final Test Accuracy: 53.4%
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_acc.png?raw=true" alt="fma_acc" width="500px"/>
+
+
+FMA Confusion Matrix
 
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="500px"/>
 
 
-## Examples
 ## Video
+[![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
+
+## Slides
+[Google Slides](https://docs.google.com/presentation/d/1uzg6beDyqPTXZqgi8qe0IjN1BLCcGJngI43mOls-FMw/edit?usp=sharing)
+
+## Drive with Code
+[Google Drive Folder](https://drive.google.com/drive/folders/1liWpWEnP1tph-7Rm3AifquwnODhWqtTO?usp=sharing)
+
+## Spotify Top 2022 Examples
+[SR20DET by Blksmiith](https://www.youtube.com/watch?v=bE2RCOp5yoU)
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/SR20DET.png?raw=true" width="300px"/>
+
+[Cooped Up by Post Malone](https://www.youtube.com/watch?v=WABOrIYhR94)
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/coopedup.png?raw=true" width="300px"/>
+
+[Over the Moon by The Marias](https://www.youtube.com/watch?v=6jiu9TlR11o)
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/overthemoon.png?raw=true" width="300px"/>
+
+[Roses by Gashi](https://www.youtube.com/watch?v=RMIHmO2_JE0)
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/roses.png?raw=true" width="300px"/>
+
+
+## Appendix (More Examples)
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/3005.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4everybody.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4thebetta.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/EntertainMe.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/FreshmanYear.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/GoneGoneThankyou.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/allineed.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/bankroll.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/daylight.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/hotrod.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/morethanever.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/nevergonnabealone.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/objectpermanence.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/onerightnow.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/sawyouinadream.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/snowman.png?raw=true" width="300px"/>
