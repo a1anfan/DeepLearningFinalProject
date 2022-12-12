@@ -1,5 +1,8 @@
 # DeepLearningFinalProject
 
+## Video
+[![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
+
 ## Abstract
 For this final project, we wanted to train a model that could successfully classify songs into different genres. To do this, we tried six different convolutional neural network architectures, including ResNet18, AlexNet, VGG-11-BN, SqueezeNet, DenseNet, and Inception v3. We trained on the GTZAN dataset, which contains 1000 songs classified into 10 different genres, as well as the small version of the FMA dataset, which contains 8000 songs classified into 8 different genres. We evaluated our performance by splitting the datasets into training and validation sets for GTZAN, and into training, validation, and test sets for FMA. Our models achieved a 66.5% validation accuracy on music genre classification using the GTZAN dataset and a 53.4% test accuracy on music genre classification using the small version of the FMA dataset.
 
@@ -40,10 +43,6 @@ FMA — Final Test Accuracy: 53.4%
 FMA Confusion Matrix
 
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="500px"/>
-
-
-## Video
-[![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
 
 ## Slides
 [Google Slides](https://docs.google.com/presentation/d/1uzg6beDyqPTXZqgi8qe0IjN1BLCcGJngI43mOls-FMw/edit?usp=sharing)
