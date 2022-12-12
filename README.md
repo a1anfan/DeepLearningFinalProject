@@ -38,10 +38,10 @@ We also tested our final model on our group’s personal music listening data. W
 [![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
 
 ## Slides
-
+[Google Slides](https://docs.google.com/presentation/d/1uzg6beDyqPTXZqgi8qe0IjN1BLCcGJngI43mOls-FMw/edit?usp=sharing)
 
 ## Drive with Code
-
+[Google Drive Folder](https://drive.google.com/drive/folders/1liWpWEnP1tph-7Rm3AifquwnODhWqtTO?usp=sharing)
 
 ## Spotify Top 2022 Examples
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/3005.png?raw=true" width="300px"/>
