@@ -44,10 +44,42 @@ We also tested our final model on our group’s personal music listening data. W
 
 
 ## Spotify Top 2022 Examples
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/3005.png?raw=true" width="500px"/>
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/3005.png?raw=true" width="300px"/>
 
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4everybody.png?raw=true" width="500px"/>
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4everybody.png?raw=true" width="300px"/>
 
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4thebetta.png?raw=true" width="500px"/>
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/4thebetta.png?raw=true" width="300px"/>
 
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/EntertainMe.png?raw=true" width="500px"/>
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/EntertainMe.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/FreshmanYear.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/GoneGoneThankyou.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/SR20DET.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/allineed.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/bankroll.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/coopedup.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/daylight.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/hotrod.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/morethanever.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/nevergonnabealone.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/objectpermanence.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/onerightnow.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/overthemoon.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/roses.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/sawyouinadream.png?raw=true" width="300px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/spotify_images/snowman.png?raw=true" width="300px"/>
