@@ -20,14 +20,19 @@ To tackle the problem of music genre classification, we first trained a CNN on t
 
 Because GTZAN is relatively small at 1000 songs, we wanted to try training on a larger, more robust dataset. The next dataset we used was the small version of FMA, which contains 8000 songs, and is more recent. Because of the formatting of the FMA dataset, we had to do a lot of data preprocessing. The FMA dataset states that the small version has eight genres, but the genre names are not given, so we had to perform some data analysis on the full dataset’s metadata using pandas to find the names of the genres. We also needed the mp3 files to be organized into a training, validation, and test set, and organized into each of the eight genres within each of those folders, so we wrote scripts to organize the mp3 files into the right folders.
 
-## Experiments/evaluation
+## Experiments / Evaluation
 To evaluate the performance of our model, we first trained it on the training set and then tested it on the test set. Because the GTZAN dataset does not contain a test set, we used a training/validation split of the GTZAN dataset with 80% of the data used for training and 20% used for validation. For the FMA dataset, we used a train/validation/test split with 80% of the data used for training, 10% used for validation, and 10% used for testing.
 
 We also tested our final model on our group’s personal music listening data. We compiled a 20-song dataset consisting of the top 5 songs that each of us listened to in 2022 on Spotify. We then trimmed each song down to the first 30 seconds, converted each trimmed mp3 into a spectrogram image, then classified each song’s genre using our model.
 
 ## Results
 
+GTZAN — Final Validation Accuracy: 66.5%
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/gtzan_acc.png?raw=true" alt="gtzan_acc" width="500px"/>
+
+
+FMA — Final Test Accuracy: 53.4%
 
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_acc.png?raw=true" alt="fma_acc" width="500px"/>
 
