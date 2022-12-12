@@ -34,5 +34,13 @@ We also tested our final model on our group’s personal music listening data. W
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="500px"/>
 
 
-## Examples
 ## Video
+
+
+## Slides
+
+
+## Drive with Code
+
+
+## Spotify Top 2022 Examples
