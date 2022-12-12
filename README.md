@@ -36,6 +36,9 @@ FMA — Final Test Accuracy: 53.4%
 
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_acc.png?raw=true" alt="fma_acc" width="500px"/>
 
+
+FMA Confusion Matrix
+
 <img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="500px"/>
 
 
