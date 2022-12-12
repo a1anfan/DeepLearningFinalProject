@@ -35,7 +35,7 @@ We also tested our final model on our group’s personal music listening data. W
 
 
 ## Video
-[![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=ACnY--6OM04))
+[![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
 
 ## Slides
 
