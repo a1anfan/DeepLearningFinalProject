@@ -27,9 +27,11 @@ We also tested our final model on our group’s personal music listening data. W
 
 ## Results
 
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/gtzan_acc.png?raw=true" alt="gtzan_acc" width="200"/>
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_acc.png?raw=true" alt="fma_acc" width="200"/>
-<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="200"/>
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/gtzan_acc.png?raw=true" alt="gtzan_acc" width="500px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_acc.png?raw=true" alt="fma_acc" width="500px"/>
+
+<img src="https://github.com/adamw24/DeepLearningFinalProject/blob/main/fma_confusion_matrix.png?raw=true" alt="fma_confusion_matrix" width="500px"/>
 
 
 ## Examples
