@@ -1,4 +1,4 @@
-# GenreNet
+# GenreNet Deep Learning Final Project
 
 ## Video
 [![genrenet video](https://img.youtube.com/vi/ACnY--6OM04/0.jpg)](https://www.youtube.com/watch?v=ACnY--6OM04)
